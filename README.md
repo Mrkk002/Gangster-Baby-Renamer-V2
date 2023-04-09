@@ -9,25 +9,25 @@
 
 ### ⚡️ Configs 
 
-* `TOKEN`  - Get bot token from @BotFather
+* `TOKEN`  - 6130789188:AAHt_IVBJn9xvF2kEGEkmK02hlkNGEhYyx8
 
-* `API_ID` - From my.telegram.org 
+* `API_ID` - 24505957
 
-* `API_HASH` - From my.telegram.org 
+* `API_HASH` - b9eae662a6dffd354d7bf18b239ad2bc
 
-* `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
+* `ADMIN` - 1860415084
 
-* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
+* `DB_URL`  - Kunj
 
-* `DB_NAME`  - Your database name from mongoDB. Default will be 'my'
+* `DB_NAME`  - mongosh "mongodb+srv://kunj.drsw5te.mongodb.net/myFirstDatabase" --apiVersion 1 --username kkmovies002
 
-* `CHANNEL` - your force sub channel username without @ 
+* `CHANNEL` - KK_MOVIES_MAIN
 
 * `LAZY_PIC` - start message photo
 
 * `STRING` - If you want to rename 4GB+ files. `[Note :- Remove string if bot don't works]`
 
-* `BOT_USERNAME` - Add bot username `without @` .
+* `BOT_USERNAME` - Kunj_Patel_bot .
 
   ### 📶 DEPLOYEMENT SUPPORT
 
