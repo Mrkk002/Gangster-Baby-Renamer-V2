@@ -17,13 +17,16 @@
 
 * `ADMIN` - 1860415084
 
-* `DB_URL`  - Kunj
+* `DB_URL`  - 
+client = pymongo.MongoClient("mongodb+srv://kkmovies002:kunjpatel3234@kunj.drsw5te.mongodb.net/?retryWrites=true&w=majority")
+db = client.test
 
-* `DB_NAME`  - mongosh "mongodb+srv://kunj.drsw5te.mongodb.net/myFirstDatabase" --apiVersion 1 --username kkmovies002
+
+* `DB_NAME`  - Kunj
 
 * `CHANNEL` - KK_MOVIES_MAIN
 
-* `LAZY_PIC` - start message photo
+* `LAZY_PIC` - https://telegra.ph/file/7ddc6b7c76d3fdfebf487.jpg
 
 * `STRING` - If you want to rename 4GB+ files. `[Note :- Remove string if bot don't works]`
 
